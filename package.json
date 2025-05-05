@@ -1,0 +1,21 @@
+{
+  "name": "find-port-project",
+  "version": "1.0.0",
+  "description": "This project finds an available PORT in your local device to start your NODE server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "nodejs",
+    "http",
+    "server",
+    "port"
+  ],
+  "author": "Cristian Harders",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
